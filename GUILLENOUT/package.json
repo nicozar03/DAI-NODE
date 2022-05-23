@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/nicozar03/DAI-NODE/issues"
   },
-  "homepage": "https://github.com/nicozar03/DAI-NODE#readme"
+  "homepage": "https://github.com/nicozar03/DAI-NODE#readme",
+  "dependencies": {
+    "currency-codes": "^2.1.0"
+  }
 }
