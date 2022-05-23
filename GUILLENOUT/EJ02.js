@@ -4,10 +4,10 @@ const sumar= require("./modules/matematica");
 const restar= require("./modules/matematica");
 const dividir= require("./modules/matematica");
 
-console.log(multiplicar.multiplicar(8,2));
-console.log(sumar.sumar(8,2));
-console.log(restar.restar(8,2));
-console.log(dividir.dividir(8,2));
+console.log(`El resultado de la multiplicación es: ${multiplicar.multiplicar(8,2)}`);
+console.log(`El resultado de la suma es: ${sumar.sumar(8,2)}`);
+console.log(`El resultado de la multiplicación es: ${restar.restar(8,2)}`);
+console.log(`El resultado de la multiplicación es: ${dividir.dividir(8,2)}`);
 
 
 
