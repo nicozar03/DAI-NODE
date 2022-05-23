@@ -12,4 +12,4 @@ const parsearURL = URL => {
         console.error(e);
     }
 }
-console.log(parsearURL("https://ort.edu.ar/DAI/TP1?a=b"));
+console.log(parsearURL("http://www.ort.edu.ar:8080/alumnos/index.htm?curso=2022&mes=mayo?"));
